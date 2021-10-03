@@ -8,5 +8,5 @@ Run application with arguments:
 - **/t [number]** for tree printing layout. The number parameter is optional and defines number of spaces that separates on section. Default value is 2 spaces
 - **/c** for printing files in blue color
 
-###Example
+### Example
 dotnet HomeWork1.dll „C:\ \r 1 \t \c“
